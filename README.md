@@ -10,7 +10,7 @@ git clone https://github.com/anandhuRaveendran/TICKETAPP.git
 ```
 cd TICKETAPP
 ```
-# Before running the project ,set .ENV file in server folder and set environment variables
+# Before running the project ,set .ENV file in server folder and set environment variables ( i have provided my secret key for testing)
 ```
 SESSION_SECRET='your code'
 GOOGLE_CLIENT_ID='your id'
